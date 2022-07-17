@@ -11,7 +11,7 @@
 - First we create an array for the melody consisting of the notes we want to play. For a pause in the music, we define a NO_SOUND variable that has 0 Hz. (The song we use for this example is Baby Elephant Walk by Henry Mancini, but you can use any song).
 - Next, we create an array for the duration. You need to enter a specific duration for each note, including NO_SOUND. 
 - The calculation of the musicLength was given, so just take it as it is.
-- When it is on, the LED lights up and when you touch the sensor, the LEDs pulse at the frequency of the notes and the music is played
+- When it is on, the LED lights up and when you touch the sensor, the music is played and the LEDs pulsate at the frequency of the notes.
 
 ## Hardware
 - This little singing DIY flash light runs on an ATtiny45.
